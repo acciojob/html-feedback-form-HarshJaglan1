@@ -1,2 +1,10 @@
-
 /* Your CSS Code here. */
+
+body{
+    font-family: Arial, sans-serif;
+    padding: 20px;
+}
+
+input{
+    margin-top: 5px;
+}
